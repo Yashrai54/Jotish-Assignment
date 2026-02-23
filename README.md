@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ![Login Page](public/Login.png)
 ![dashboard ](public/Dashboard.png)
-![Details](public/Details.png)
+![Details](public/details.png)
 ![Bar Graph](public/bargraph.png)
 
 
