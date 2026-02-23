@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Screenshots
 
-![Login Page](public/Screenshot(74).png)
+![Login Page](public/Screenshot (74).png)
